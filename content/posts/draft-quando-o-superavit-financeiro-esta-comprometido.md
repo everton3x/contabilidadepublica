@@ -1,4 +1,6 @@
 Title: Quando o superávit financeiro está comprometido?
+Date: 2017-06-14
+
 
 L4320:
 Art. 43. A abertura dos créditos suplementares e especiais depende da existência de recursos disponíveis para ocorrer a despesa e será precedida de exposição justificativa. (Veto rejeitado no D.O. 05/05/1964)

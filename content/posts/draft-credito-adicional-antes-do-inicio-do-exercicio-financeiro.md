@@ -1,4 +1,6 @@
 Title: Crédito Adicional antes do início do exercício financeiro
+Date: 2017-06-14
+
 
 **É possível alterar a lei orçamentária anual antes do início do exercício financeiro ao qual ela refere?**
 
