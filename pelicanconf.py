@@ -58,7 +58,7 @@ MENUITEMS = (('Início', 'index.html'),
 
 # attila
 THEME = 'attila'
-HEADER_COVER = 'static/pexels-photo-169657-1.jpeg'
+HEADER_COVER = 'images/contabilidade-2.jpg'
 #HEADER_COLOR = 'black'
 AUTHORS_BIO = {
   "everton da rosa": {
