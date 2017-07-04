@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Contabilidade Pública - Material</title><link href="https://everton3x.github.io/contabilidadepublica/" rel="alternate"></link><link href="https://everton3x.github.io/contabilidadepublica/feeds/material.atom.xml" rel="self"></link><id>https://everton3x.github.io/contabilidadepublica/</id><updated>2017-07-04T15:22:25-03:00</updated><entry><title>Planilha para cálculo do impacto orçamentário-financeiro</title><link href="https://everton3x.github.io/contabilidadepublica/planilha-para-calculo-do-impacto-orcamentario-financeiro.html" rel="alternate"></link><published>2017-07-04T15:22:25-03:00</published><updated>2017-07-04T15:22:25-03:00</updated><author><name>Everton da Rosa</name></author><id>tag:everton3x.github.io,2017-07-04:/contabilidadepublica/planilha-para-calculo-do-impacto-orcamentario-financeiro.html</id><summary type="html">&lt;p&gt;Este é o modelo atual de cálculo do impacto orçamentário-financeiro para despesa com pessoal.&lt;/p&gt;
+&lt;p&gt;Observações quanto ao preenchimento:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Os campos com fundo cinza são editáveis.&lt;/li&gt;
+&lt;li&gt;A linha IRRF Mensal deve ser preenchida com o valor do IRRF em cada mês para a nova despesa, se for o caso.&lt;/li&gt;
+&lt;li&gt;As linhas …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;Este é o modelo atual de cálculo do impacto orçamentário-financeiro para despesa com pessoal.&lt;/p&gt;
+&lt;p&gt;Observações quanto ao preenchimento:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Os campos com fundo cinza são editáveis.&lt;/li&gt;
+&lt;li&gt;A linha IRRF Mensal deve ser preenchida com o valor do IRRF em cada mês para a nova despesa, se for o caso.&lt;/li&gt;
+&lt;li&gt;As linhas Mês de início e mês de fim devem ser preenchidas com o número do mês de início e término da despesa em cada ano. Caso a despesa não ocorra em determinado ano, preencha o início com zero e o mês final com -1 (menos um).&lt;/li&gt;
+&lt;li&gt;A linha Aumento salarial deve ser preenchida com o percentual estimado para aumento salarial (inflação + aumento real). Na dúvida, coloque o projetado para a inflação.&lt;/li&gt;
+&lt;li&gt;Na seção DOTAÇÃO ORÇAMENTÁRIA, a coluna Acesso se refere ao código da dotação (para quem tem o sistema da Abase, de Três de Maio, sabe do que estou falando). O preenchimento não é obrigatório.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href="https://everton3x.github.io/contabilidadepublica/files/planilha-impacto-orcamentario-financeiro-pessoal.xlsx"&gt;Download da planilha&lt;/a&gt;&lt;/p&gt;</content><category term="lrf"></category><category term="estudos"></category><category term="planilha"></category></entry></feed>
