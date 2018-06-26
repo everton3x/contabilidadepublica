@@ -3,30 +3,91 @@
     <channel>
         <title>Contabilidade Pública</title>
         <atom:link href="/contabilidadepublica/feed.xml" rel="self" type="application/rss+xml"/>
-        <link>http://localhost:4000/contabilidadepublica/</link>
+        <link>https://everton3x.github.io/contabilidadepublica/</link>
         <description></description>
-        <pubDate>Wed, 20 Jun 2018 16:23:54 -0300</pubDate>
+        <pubDate>Tue, 26 Jun 2018 15:51:07 -0300</pubDate>
         
         <item>
-            <title>Welcome to Jekyll!</title>
-            <link>/contabilidadepublica/jekyll/update/2018/06/20/welcome-to-jekyll.html</link>
-            <guid isPermaLink="true">/contabilidadepublica/jekyll/update/2018/06/20/welcome-to-jekyll.html</guid>
-            <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+            <title>Anotação de Responsabilidade Técnica (ART): Classificação orçamentária do empenho da despesa</title>
+            <link>/contabilidadepublica/or%C3%A7amento/2018/06/26/art-classificacao-orcamentaria-do-empenho-da-despesa.html</link>
+            <guid isPermaLink="true">/contabilidadepublica/or%C3%A7amento/2018/06/26/art-classificacao-orcamentaria-do-empenho-da-despesa.html</guid>
+            <description>&lt;p&gt;O pagamento de &lt;strong&gt;Anotações de Responsabilidade Técnica (ART)&lt;/strong&gt; ao &lt;a href=&quot;http://www.crea-rs.org.br/&quot;&gt;Conselho Regional de Engenharia e Arquitetura (CREA)&lt;/a&gt; é uma constante sempre que há serviços de engenharia realizados ou contratados pelo Poder Público.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;ART&lt;/strong&gt; foi instituída pela &lt;a href=&quot;http://www.planalto.gov.br/ccivil_03/Leis/L6496.htm&quot;&gt;Lei Federal nº 6.496, de 07/12/1977&lt;/a&gt; e atualmente regulamentada pelo &lt;a href=&quot;http://www.confea.org.br&quot;&gt;CONFEA&lt;/a&gt; através da &lt;a href=&quot;http://normativos.confea.org.br/ementas/visualiza.asp?idEmenta=43481&quot;&gt;Resolução nº 1.025, de 31 de outubro de 2009&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Quando assumi a contabilidade da Prefeitura de Independência, muitas coisas seguiram sendo feitas na base do “sempre foi assim”, sem que de imediato houvesse uma reflexão sobre se o que era feito estava sendo feito da maneira correta.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Com o tempo e a experiência, passei a realizar algumas reflexões e me deparei com algumas situações que não estavam adequadamente alinhadas às normas existentes. Em uma dessas reflexões, fiz a seguinte pergunta:&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Qual é a natureza de despesa orçamentária para o empenho de Anotações de Responsabilidade Técnica (ART), do CONFEA/CREA?&lt;/strong&gt;&lt;/p&gt;
 
+&lt;p&gt;Perguntei isso porque não me parecia correto que as ARTs fossem um serviço de pessoa jurídica, já que estávamos empenhando-as na natureza de despesa orçamentária &lt;em&gt;3390 39 05 00 00 SERVIÇOS TÉCNICOS PROFISSIONAIS&lt;/em&gt;, cuja função é:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“REGISTRA O VALOR DAS DESPESAS COM SERVICOS PRESTADOS POR EMPRESAS ESPECIALIZADAS NAS SEGUINTES AREAS: ADVOCACIA - ARQUITETURA - CONTABILIDADE - ECONOMIA - ENGENHARIA - ESTATISTICA - INFORMATICA E OUTRAS.EXCETO OS SERVICOS DE CONSULTORIA QUE DEVEM SER CLASSIFICADOS NO ELEMENTO 35.” (PCASP para 2017 do TCE/RS).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vasculhando a relação de naturezas de despesas do TCE/RS para 2017, encontrei uma que julguei pudesse ser mais adequada, porém se referia ao uma obrigação tributária ou contributiva, especificada como taxa:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;3390 47 10 00 00 TAXAS&lt;/em&gt;, cuja função dada no PCASP para 2017, do TCE/RS, é&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“REGISTRA O VALOR DA DESPESA COM TAXAS PAGAS EM FUNCAO DO EXERCICIO REGULAR DO PODER DE POLICIA, OU PELA UTILIZACAO, EFETIVA OU POTENCIAL, DE SERVICO PUBLICO ESPECIFICO E DIVISIVEL, PRESTADO AO CONTRIBUINTE OU POSTO A SUA DISPOSICAO.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Assim, a classificação da despesa passou a depender da definição como taxa ou como serviço quanto à despesa com &lt;strong&gt;ART&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nos primeiros artigos da Lei Federal nº 6.496, tive algumas indicações de que o pagamento da &lt;strong&gt;ART&lt;/strong&gt; seria uma taxa pelo exercício do poder de polícia por parte do CONFEA/CREA, já que a existência da &lt;strong&gt;ART&lt;/strong&gt; é uma exigência para todo contrato escrito ou verbal de execução de obra ou prestação de serviços profissionais de Engenharia, Arquitetura ou Agronomia.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Art 1º - Todo contrato, escrito ou verbal, para a execução de obras ou prestação de quaisquer serviços profissionais referentes à Engenharia, à Arquitetura e à Agronomia fica sujeito à “Anotação de Responsabilidade Técnica” (ART).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Esse entendimento de que a &lt;strong&gt;ART&lt;/strong&gt; é um mecanismo para que o CONFEA/CREA exerça sua função fiscalizadora ficou reforçado no art. 2º da mesma lei:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Art 2º - A ART define para os efeitos legais os responsáveis técnicos pelo empreendimento de engenharia, arquitetura e agronomia.&lt;/p&gt;
+
+  &lt;p&gt;§ 1º - A ART será efetuada pelo profissional ou pela empresa no Conselho Regional de Engenharia, Arquitetura e Agronomia (CREA), de acordo com Resolução própria do Conselho Federal de Engenharia, Arquitetura e Agronomia (CONFEA).&lt;/p&gt;
+
+  &lt;p&gt;§ 2º - O CONFEA fixará os critérios e os valores das taxas da ART ad referendum do Ministro do Trabalho.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Podemos perceber que o § 2º do art. 2º faz referência ao pagamento da &lt;strong&gt;ART&lt;/strong&gt; como taxa.&lt;/p&gt;
+
+&lt;p&gt;Mas sou Contador e não é da minha competência profissional fazer esse tipo de interpretação, pois entendo que a relação entre o profissional da contabilidade e as normas seja a de verificar a adequação de situações fáticas às normas existentes de forma a realizar o registro contábil adequado e pertinente. Não nos cabe a função interpretativa da norma, atribuição esta de competência dos nossos colegas, profissionais do Direito.&lt;/p&gt;
+
+&lt;p&gt;Continuando minhas pesquisas, encontrei notícias de que a cobrança de &lt;strong&gt;ART&lt;/strong&gt; seria inconstitucional, fazendo com que eu direcionasse minha busca ao &lt;a href=&quot;http://portal.stf.jus.br/&quot;&gt;STF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lá encontrei o seguinte processo:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;REPERCUSSÃO GERAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO 748.445 SANTA CATARINA&lt;/p&gt;
+
+  &lt;p&gt;RELATOR : MIN. RICARDO LEWANDOWSKI&lt;/p&gt;
+
+  &lt;p&gt;EMENTA: RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. LEI 6.496/1977. MANIFESTAÇÃO DO EXERCÍCIO DO PODER DE POLÍCIA. NATUREZA DE TAXA. SUBMISSÃO AO PRINCÍPIO DA ESTRITA LEGALIDADE. EXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Como podemos ver, não restou dúvida de que a &lt;strong&gt;ART&lt;/strong&gt; tem natureza de taxa, como se pode novamente constatar no primeiro parágrafo da referida decisão:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O Tribunal reconheceu a existência de repercussão geral da matéria debatida nos presentes autos, para reafirmar a jurisprudência desta Corte, no sentido de que a Anotação de Responsabilidade Técnica, instituída pela Lei Lei 6.496/1977, cobrada pelos Conselhos Regionais de Engenharia, Arquitetura e Agronomia, tem natureza jurídica de taxa, sendo, portanto, necessária a observância do princípio da legalidade tributária previsto no art. 150, I, da Constituição. Em consequência, conheceu do recurso extraordinário, desde já, mas lhe negou provimento.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Prossegue ainda a decisão:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Além disso, o dever de Anotação de Responsabilidade Técnica constitui nítido exercício do poder de polícia realizado pelo Conselho Federal de Engenharia Arquitetura e Agronomia CONFEA. Assim, o dever de anotação ora discutido caracteriza-se como instrumento utilizado pela recorrente no desempenho do dever de fiscalização do exercício das profissões sujeitas ao seu controle.&lt;/p&gt;
+
+  &lt;p&gt;[…]&lt;/p&gt;
+
+  &lt;p&gt;Concluo, portanto, que a Anotação de Responsabilidade Técnica prevista no art. 1º da Lei 6.496/1977 prestase ao exercício do poder de polícia fiscalização de profissões , atribuído ao CONFEA. Assim, a remuneração dessa atividade provém da cobrança da instituição de taxa cuja criação deve ser realizada com observância do princípio da legalidade tributária, previsto no art. 150, I, da Constituição.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dito isto, fica claro que a correta classificação quanto a natureza da despesa orçamentária a ser utilizada nos empenhos destinados ao pagamento de &lt;strong&gt;Anotações de Responsabilidade Técnica ao CONFEA/CREA&lt;/strong&gt; é a de &lt;strong&gt;Obrigações Tributárias e Contribuitivas&lt;/strong&gt;, sob o código &lt;em&gt;3390 47 10 00 00 TAXAS&lt;/em&gt;.&lt;/p&gt;
 </description>
-            <pubDate>Wed, 20 Jun 2018 15:26:33 -0300</pubDate>
+            <pubDate>Tue, 26 Jun 2018 00:00:00 -0300</pubDate>
         </item>
         
         <item>
@@ -50,409 +111,6 @@
 &lt;p&gt;A última categoria de ação judicial é aquela onde já existe precatório ou RPV emitida. Neste caso, trata-se de um passivo ordinário.&lt;/p&gt;
 </description>
             <pubDate>Wed, 20 Jun 2018 00:00:00 -0300</pubDate>
-        </item>
-        
-        <item>
-            <title>Sample post</title>
-            <link>/contabilidadepublica/2014/11/30/sample-post.html</link>
-            <guid isPermaLink="true">/contabilidadepublica/2014/11/30/sample-post.html</guid>
-            <description>&lt;p&gt;Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
-Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. 
-&lt;!--more--&gt;
-Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Consectetur adipiscing elit&lt;/li&gt;
-  &lt;li&gt;Donec a diam lectus&lt;/li&gt;
-  &lt;li&gt;Sed sit amet ipsum mauris&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.&lt;/p&gt;
-
-&lt;p&gt;Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula &lt;em&gt;semper consectetur sagittis&lt;/em&gt;, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.&lt;/p&gt;
-
-&lt;p&gt;Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.&lt;/p&gt;
-
-&lt;p&gt;Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.&lt;/p&gt;
-</description>
-            <pubDate>Sun, 30 Nov 2014 00:00:00 -0200</pubDate>
-        </item>
-        
-        <item>
-            <title>Feature images</title>
-            <link>/contabilidadepublica/2014/11/29/feature-images.html</link>
-            <guid isPermaLink="true">/contabilidadepublica/2014/11/29/feature-images.html</guid>
-            <description>&lt;p&gt;This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.&lt;/p&gt;
-
-</description>
-            <pubDate>Sat, 29 Nov 2014 00:00:00 -0200</pubDate>
-        </item>
-        
-        <item>
-            <title>Markdown and HTML</title>
-            <link>/contabilidadepublica/2014/11/28/markdown-and-html.html</link>
-            <guid isPermaLink="true">/contabilidadepublica/2014/11/28/markdown-and-html.html</guid>
-            <description>&lt;p&gt;Jekyll supports the use of &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.&lt;/p&gt;
-
-&lt;p&gt;Tables have also been extended from Markdown:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;First Header&lt;/th&gt;
-      &lt;th&gt;Second Header&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Here’s an example of an image, which is included using Markdown:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/contabilidadepublica/assets/img/pexels/book-glass.jpeg&quot; alt=&quot;Image of a glass on a book&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Highlighting for code in Jekyll is done using Base16 or Rouge. This theme makes use of Rouge by default.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// count to ten&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// count to twenty&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Type on Strap uses KaTeX to display maths. Equations such as &lt;script type=&quot;math/tex&quot;&gt;S_n = a \times \frac{1-r^n}{1-r}&lt;/script&gt; can be displayed inline.&lt;/p&gt;
-
-&lt;p&gt;Alternatively, they can be shown on a new line:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;f(x) = \int \frac{2x^2+4x+6}{x-2}&lt;/script&gt;
-</description>
-            <pubDate>Fri, 28 Nov 2014 00:00:00 -0200</pubDate>
-        </item>
-        
-        <item>
-            <title>Markup: Syntax Highlighting</title>
-            <link>/contabilidadepublica/2014/08/08/Markup-Syntax-Highlighting.html</link>
-            <guid isPermaLink="true">/contabilidadepublica/2014/08/08/Markup-Syntax-Highlighting.html</guid>
-            <description>&lt;p&gt;From Michael’s Rose &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting&quot;&gt;Minimal Mistakes&lt;/a&gt;.
-Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. &lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;Highlighting&lt;/a&gt; does not affect the meaning of the text itself; it is intended only for human readers.&lt;/p&gt;
-
-&lt;h3 id=&quot;gfm-code-blocks&quot;&gt;GFM Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;GitHub Flavored Markdown &lt;a href=&quot;https://help.github.com/articles/creating-and-highlighting-code-blocks/&quot;&gt;fenced code blocks&lt;/a&gt; are supported. To modify styling and highlight colors edit &lt;code class=&quot;highlighter-rouge&quot;&gt;/_sass/syntax.scss&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scss&quot; data-lang=&quot;scss&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$monospace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$type-size-7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;line-height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;.8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;nav&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;pagination&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;navigation&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  {% if page.previous %}
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.previous.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.previous.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Previous article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-  {% endif %}
-  {% if page.next %}
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.next.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.next.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Next article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-  {% endif %}
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- /.pagination --&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;TagIndex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Page&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@site&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@base&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'index.html'&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;read_yaml&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'_layouts'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'tag_index.html'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag_title_prefix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Tagged: '&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_suffix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag_title_suffix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&amp;amp;#8211;'&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'title'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'description'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;An archive of posts tagged &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.&quot;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;code-blocks-in-lists&quot;&gt;Code Blocks in Lists&lt;/h3&gt;
-
-&lt;p&gt;Indentation matters. Be sure the indent of the code block aligns with the first non-space character after the list item marker (e.g., &lt;code class=&quot;highlighter-rouge&quot;&gt;1.&lt;/code&gt;). Usually this will mean indenting 3 spaces instead of 4.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Do step 1.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Now do this:&lt;/p&gt;
-
-    &lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Now you can do this.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;github-gist-embed&quot;&gt;GitHub Gist Embed&lt;/h3&gt;
-
-&lt;p&gt;An example of a Gist embed below.&lt;/p&gt;
-
-&lt;script src=&quot;https://gist.github.com/mmistakes/77c68fbb07731a456805a7b473f47841.js&quot;&gt;&lt;/script&gt;
-
-&lt;h3 id=&quot;source&quot;&gt;Source&lt;/h3&gt;
-
-</description>
-            <pubDate>Fri, 08 Aug 2014 00:00:00 -0300</pubDate>
-        </item>
-        
-        <item>
-            <title>Generate a table of content</title>
-            <link>/contabilidadepublica/2013/12/12/Generate-a-table-of-content.html</link>
-            <guid isPermaLink="true">/contabilidadepublica/2013/12/12/Generate-a-table-of-content.html</guid>
-            <description>&lt;p&gt;Test article, get the source on &lt;a href=&quot;https://github.com/Sylhare/Type-on-Strap/blob/gh-pages/_posts/2013-12-12-toc.js-for-table-of-content.md&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;using-kramdown-gfm&quot;&gt;Using Kramdown GFM&lt;/h1&gt;
-
-&lt;!-- To be placed at the beginning of the post, it is where the table of content will be generated --&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#using-kramdown-gfm&quot; id=&quot;markdown-toc-using-kramdown-gfm&quot;&gt;Using Kramdown GFM&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#basic-usage&quot; id=&quot;markdown-toc-basic-usage&quot;&gt;Basic Usage&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#using-tocjs&quot; id=&quot;markdown-toc-using-tocjs&quot;&gt;Using toc.js&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#customize-with-tocjs&quot; id=&quot;markdown-toc-customize-with-tocjs&quot;&gt;Customize with toc.js&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#use-with-this-jekyll-template&quot; id=&quot;markdown-toc-use-with-this-jekyll-template&quot;&gt;Use with this jekyll template&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#basic-usage-1&quot; id=&quot;markdown-toc-basic-usage-1&quot;&gt;Basic Usage&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#how-it-would-look-like&quot; id=&quot;markdown-toc-how-it-would-look-like&quot;&gt;How it would look like&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;basic-usage&quot;&gt;Basic Usage&lt;/h2&gt;
-
-&lt;p&gt;You need to put this at the beginning of the page where you want the table of content to be displayed&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* TOC
-{:toc}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;It will then render the markdown and html titles (lines that begins with &lt;code class=&quot;highlighter-rouge&quot;&gt;#&lt;/code&gt; or using the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&amp;lt;/h1&amp;gt;&lt;/code&gt; tages)&lt;/p&gt;
-
-&lt;h1 id=&quot;using-tocjs&quot;&gt;Using toc.js&lt;/h1&gt;
-
-&lt;p&gt;Demo display of &lt;a href=&quot;https://github.com/ghiculescu/jekyll-table-of-contents&quot;&gt;jekyll-table-of-contents&lt;/a&gt; by ghiculescu.&lt;/p&gt;
-
-&lt;!-- To be placed at the beginning of the post, it is where the table of content will be generated --&gt;
-&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;customize-with-tocjs&quot;&gt;Customize with toc.js&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/ghiculescu/jekyll-table-of-contents&quot;&gt;toc.js&lt;/a&gt; stands for table of content, it is a js plugin that generates automatically a table of content of a post.&lt;/p&gt;
-
-&lt;h3 id=&quot;use-with-this-jekyll-template&quot;&gt;Use with this jekyll template&lt;/h3&gt;
-
-&lt;p&gt;If you want to customize the theme it is up to you, you can add the &lt;code class=&quot;highlighter-rouge&quot;&gt;toc.js&lt;/code&gt; file into the &lt;code class=&quot;highlighter-rouge&quot;&gt;asset &amp;gt; js&lt;/code&gt; and add it into the &lt;code class=&quot;highlighter-rouge&quot;&gt;page.html&lt;/code&gt; layout with:&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/contabilidadepublica/assets/js/toc.js&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Then you can use it as it is said on the repository.&lt;/p&gt;
-
-&lt;h2 id=&quot;basic-usage-1&quot;&gt;Basic Usage&lt;/h2&gt;
-
-&lt;p&gt;The script requires jQuery. First, reference toc.js in templates where you would like to add the table of content. Then, create an HTML element wherever you want your table of contents to appear:&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toc&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Then you put your post with titles and all like:&lt;/p&gt;
-
-&lt;div class=&quot;language-apiblueprint highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gu&quot;&gt;## Title&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;## Mid title 1&lt;/span&gt;
-This is text on page one
-&lt;span class=&quot;gu&quot;&gt;## Mid title 2&lt;/span&gt;
-This is text for page two
-&lt;span class=&quot;gu&quot;&gt;### Sub title 2.a&lt;/span&gt;
-Some more text
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Then at the end of your post, you call the .toc() function using:&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;text/javascript&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ready&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#toc'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;toc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;how-it-would-look-like&quot;&gt;How it would look like&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/20642750/39189661-c22099f2-47a0-11e8-826e-2ec3ef4cc4f4.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;script&gt;
-// toc.js 
-// Copied here for the example, can be placed in assets/js for real use in your template.
-// https://github.com/ghiculescu/jekyll-table-of-contents
-(function($){
-  $.fn.toc = function(options) {
-    var defaults = {
-      noBackToTopLinks: false,
-      title: '&lt;i&gt;Jump to...&lt;/i&gt;',
-      minimumHeaders: 3,
-      headers: 'h1, h2, h3, h4, h5, h6',
-      listType: 'ol', // values: [ol|ul]
-      showEffect: 'show', // values: [show|slideDown|fadeIn|none]
-      showSpeed: 'slow', // set to 0 to deactivate effect
-      classes: { list: '',
-                 item: ''
-               }
-    },
-    settings = $.extend(defaults, options);
-
-    function fixedEncodeURIComponent (str) {
-      return encodeURIComponent(str).replace(/[!'()*]/g, function(c) {
-        return '%' + c.charCodeAt(0).toString(16);
-      });
-    }
-
-    function createLink (header) {
-      var innerText = (header.textContent === undefined) ? header.innerText : header.textContent;
-      return &quot;&lt;a href='#&quot; + fixedEncodeURIComponent(header.id) + &quot;'&gt;&quot; + innerText + &quot;&lt;/a&gt;&quot;;
-    }
-
-    var headers = $(settings.headers).filter(function() {
-      // get all headers with an ID
-      var previousSiblingName = $(this).prev().attr( &quot;name&quot; );
-      if (!this.id &amp;&amp; previousSiblingName) {
-        this.id = $(this).attr( &quot;id&quot;, previousSiblingName.replace(/\./g, &quot;-&quot;) );
-      }
-      return this.id;
-    }), output = $(this);
-    if (!headers.length || headers.length &lt; settings.minimumHeaders || !output.length) {
-      $(this).hide();
-      return;
-    }
-
-    if (0 === settings.showSpeed) {
-      settings.showEffect = 'none';
-    }
-
-    var render = {
-      show: function() { output.hide().html(html).show(settings.showSpeed); },
-      slideDown: function() { output.hide().html(html).slideDown(settings.showSpeed); },
-      fadeIn: function() { output.hide().html(html).fadeIn(settings.showSpeed); },
-      none: function() { output.html(html); }
-    };
-
-    var get_level = function(ele) { return parseInt(ele.nodeName.replace(&quot;H&quot;, &quot;&quot;), 10); };
-    var highest_level = headers.map(function(_, ele) { return get_level(ele); }).get().sort()[0];
-    var return_to_top = '&lt;i class=&quot;icon-arrow-up back-to-top&quot;&gt; &lt;/i&gt;';
-
-    var level = get_level(headers[0]),
-      this_level,
-      html = settings.title + &quot; &lt;&quot; +settings.listType + &quot; class=\&quot;&quot; + settings.classes.list +&quot;\&quot;&gt;&quot;;
-    headers.on('click', function() {
-      if (!settings.noBackToTopLinks) {
-        window.location.hash = this.id;
-      }
-    })
-    .addClass('clickable-header')
-    .each(function(_, header) {
-      this_level = get_level(header);
-      if (!settings.noBackToTopLinks &amp;&amp; this_level === highest_level) {
-        $(header).addClass('top-level-header').after(return_to_top);
-      }
-      if (this_level === level) // same level as before; same indenting
-        html += &quot;&lt;li class=\&quot;&quot; + settings.classes.item + &quot;\&quot;&gt;&quot; + createLink(header);
-      else if (this_level &lt;= level){ // higher level than before; end parent ol
-        for(var i = this_level; i &lt; level; i++) {
-          html += &quot;&lt;/li&gt;&lt;/&quot;+settings.listType+&quot;&gt;&quot;
-        }
-        html += &quot;&lt;li class=\&quot;&quot; + settings.classes.item + &quot;\&quot;&gt;&quot; + createLink(header);
-      }
-      else if (this_level &gt; level) { // lower level than before; expand the previous to contain a ol
-        for(i = this_level; i &gt; level; i--) {
-          html += &quot;&lt;&quot; + settings.listType + &quot; class=\&quot;&quot; + settings.classes.list +&quot;\&quot;&gt;&quot; +
-                  &quot;&lt;li class=\&quot;&quot; + settings.classes.item + &quot;\&quot;&gt;&quot;
-        }
-        html += createLink(header);
-      }
-      level = this_level; // update for the next one
-    });
-    html += &quot;&lt;/&quot;+settings.listType+&quot;&gt;&quot;;
-    if (!settings.noBackToTopLinks) {
-      $(document).on('click', '.back-to-top', function() {
-        $(window).scrollTop(0);
-        window.location.hash = '';
-      });
-    }
-
-    render[settings.showEffect]();
-  };
-})(jQuery);
-&lt;/script&gt;
-
-&lt;!-- To be copied at the end of the post to render the table of content --&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-$(document).ready(function() {
-    $('#toc').toc();
-});
-&lt;/script&gt;
-
-</description>
-            <pubDate>Thu, 12 Dec 2013 00:00:00 -0200</pubDate>
-        </item>
-        
-        <item>
-            <title>Blogging with title</title>
-            <link>/contabilidadepublica/2013/11/18/blogging-with-title.html</link>
-            <guid isPermaLink="true">/contabilidadepublica/2013/11/18/blogging-with-title.html</guid>
-            <description>&lt;h1 id=&quot;i-am-a-big-title&quot;&gt;I am a BIG title&lt;/h1&gt;
-
-&lt;p&gt;This is a very tiny tiny post with less than 250 letters.&lt;/p&gt;
-
-&lt;p&gt;Search should be working even for complicated escape symbols&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sed -i 's/\&quot;hostname\&quot;\:.*$/\&quot;hostname\&quot;\: \&quot;'$IPADDR'\&quot;\,/g' open-falcon/agent/config/cfg.json
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-            <pubDate>Mon, 18 Nov 2013 00:00:00 -0200</pubDate>
         </item>
         
     </channel>

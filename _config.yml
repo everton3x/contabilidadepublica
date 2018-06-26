@@ -30,14 +30,14 @@ defaults:
 theme_settings:
   # Meta
   title: Contabilidade Pública # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/caduceu.svg
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar: 0a175cf735e882a8c81d12d05952842c # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>Textos, artigos e material sobre Contabilidade Pública.</p>
+  header_text_feature_image: assets/img/pexels/banner.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
@@ -47,14 +47,14 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "everton3x"
   flickr:
   gitlab:
   github: "everton3x"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/everton-da-rosa-65354371/ # Full URL
   pinterest:
   reddit:
   soundcloud:
@@ -71,12 +71,12 @@ theme_settings:
     facebook: true
     twitter: true
     google_plus: true
-    tumblr:
-    pinterest:
-    pocket:
+    tumblr: true
+    pinterest: true
+    pocket: true
     reddit: true
     linkedin: true
-    wordpress:
+    wordpress: true
     email: true
 
   # Scripts / Features
@@ -93,19 +93,19 @@ theme_settings:
       enabled: true
 
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_share_on: "Share on"
-  str_add_to: "Add to"
+  str_follow_on: "Siga-nos"
+  str_rss_follow: "RSS feed"
+  str_share_on: "Compartilhe"
+  str_add_to: "Adicione para"
   str_email: "Email"
   str_tweet: "Tweet"
   str_pin_it: "Pin it"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_next_post: "Próximo"
+  str_previous_post: "Anterior"
+  str_next_page: "Próximo"
+  str_previous_page: "Anterior"
+  str_continue_reading: "Continue lendo..."
+  str_javascript_required_disqus: "Por favor, habilite o JavaScript pra ver comentários."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
@@ -116,7 +116,7 @@ theme_settings:
 
 
 # PAGINATION
-paginate: 5
+paginate: 10
 paginate_path: "blog/page:num"
 
 

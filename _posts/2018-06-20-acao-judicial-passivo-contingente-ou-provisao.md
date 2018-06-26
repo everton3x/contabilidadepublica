@@ -1,7 +1,9 @@
 ---
 title: "Ação Judicial: Passivo Contingente ou Provisão?"
 category: Contabilidade
-tags: passivo contingente, provisão
+tags:
+  - passivo contingente
+  - provisão
 ---
 A pergunta é simples: A obrigação decorrente de ação judicial é um Passivo Contingente ou uma Provisão?
 
